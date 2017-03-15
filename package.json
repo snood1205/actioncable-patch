@@ -1,0 +1,24 @@
+{
+  "name": "actioncable-patch",
+  "version": "5.1.0-Beta1",
+  "description": "A patch for ActionCable's npm module",
+  "main": "lib/assets/compiled/action_cable.js",
+  "files": [
+    "lib/assets/compiled/*.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snood1205/actioncablepatch.git"
+  },
+  "keywords": [
+    "rails",
+    "actioncable",
+    "websockets"
+  ],
+  "author": "None",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/snood1205/actioncablepatch/issues"
+  },
+  "homepage": "https://github.com/snood1205/actioncablepatch#readme"
+}
